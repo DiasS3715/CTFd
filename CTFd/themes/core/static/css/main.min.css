@@ -1941,6 +1941,19 @@ pre code {
     }
 }
 
+.form-control {
+ position:relative;
+ display:block;
+ padding:.8em!important;
+ border-radius:0;
+ background:#4444;
+ color:#aaa;
+ font-weight:400;
+ font-family:Avenir Next,Helvetica Neue,Helvetica,Arial,sans-serif;
+ -webkit-appearance:none;
+ height:auto!important
+}
+
 .form-control::-ms-expand {
     background-color: transparent;
     border: 0
